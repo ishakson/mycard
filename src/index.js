@@ -9,6 +9,7 @@ function Avatar() {
             <img
                 src="./avatar.jpg"
                 alt="Avatar"
+                className="avatar"
             />
         </div>
     )
